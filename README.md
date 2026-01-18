@@ -16,8 +16,8 @@ The features from the molecules (each represented as a smiles string) are extrac
 
 This project itself can be installed as a package. Installable part is used to share pieces of code between separate kaggle notebooks and to reuse them. To install, run
 ```
-git clone https://github.com/latticetower/openadmet-expansionrx-challenge-2026.git
-cd openadmet-expansionrx-challenge-2026
+git clone https://github.com/latticetower/chemney.git
+cd chemney
 pip install .
 ```
 This installs the package `chemney`, which contains models, preprocessing code, etc. with their dependencies.
