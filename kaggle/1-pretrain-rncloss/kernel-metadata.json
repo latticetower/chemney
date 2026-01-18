@@ -1,0 +1,19 @@
+{
+  "id": "latticetower/openadmet2026-pretrain-rncloss",
+  "id_no": 107300414,
+  "title": "openadmet2026-pretrain-rncloss",
+  "code_file": "openadmet2026-pretrain-rncloss.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "latticetower/openadmet2026-data-split"
+  ],
+  "competition_sources": [],
+  "model_sources": []
+}

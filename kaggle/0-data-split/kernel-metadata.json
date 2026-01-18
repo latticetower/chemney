@@ -1,0 +1,17 @@
+{
+  "id": "latticetower/openadmet2026-data-split",
+  "id_no": 107299876,
+  "title": "openadmet2026-data-split",
+  "code_file": "openadmet2026-data-split.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
