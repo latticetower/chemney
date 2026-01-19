@@ -1,4 +1,6 @@
-# openadmet-expansionrx-challenge-2026
+# OpenADMET ExpansionRX Blind Challenge
+
+My solution for https://openadmet.ghost.io/openadmet-expansionrx-blind-challenge/
 
 ## How it works. Methodology
 ### Data preparation
